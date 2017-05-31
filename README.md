@@ -2,46 +2,48 @@
 
 ## Personal Data | Dados Pessoais :bowtie:
 
-### **Name:** Aleck Yann Marques de Matos Martins.
+### Name:
+ Aleck Yann Marques de Matos Martins.
 
-### **Birth:** 01/03/1994
+### Birth:
+01/03/1994
 
-### **Age:** 23
+### Age:
+23
 
-### **Graduation:** Biomedical Engineering 8º period.
+### Graduation:
+Biomedical Engineering 8º period.
 
+---
+## Contact | Contato :mailbox:
 
-##Contact | Contato :mailbox:
+### Email:
+aleckyann@gmail.com
 
-### **Email:** aleckyann@gmail.com
+### Phone:
++55 (38) 9 9903-4451
 
-### **Phone:** +55 (38) 9 9903-4451
+### Likedin:
+[link](https://www.linkedin.com/in/aleckyann/)
 
-### [Linkedin](https://www.linkedin.com/in/aleckyann/)
+### Facebook:
+[link](https://www.facebook.com/aleckyann)
 
-### [Facebook](https://www.facebook.com/aleckyann)
-
-
+---
 ## Projects and Hobbies | Projetos e Hobbies :school_satchel:
 
-### [GetDoctors](http://getdoctors.com.br)
-
-### [Gekee](http://geekee.com.br)
-
-### [MedicoOnline](http://medico.online)
-
-### [BuscarMedico](http://buscarmedico.com.br)
-
-### [MedicoCity](http://medico.city)
-
-### [ClinicaOftalmológica](http://clinicaoftalmologicamoc.com.br)
-
-### [DrLuciano](http://drlucianosolianasser.com.br)
-
-### [IeMusical](http://iemusical.com.br)
+* [GetDoctors](http://getdoctors.com.br)
+* [Gekee](http://geekee.com.br)
+* [MedicoOnline](http://medico.online)
+* [BuscarMedico](http://buscarmedico.com.br)
+* [MedicoCity](http://medico.city)
+* [ClinicaOftalmológica](http://clinicaoftalmologicamoc.com.br)
+* [DrLuciano](http://drlucianosolianasser.com.br)
+* [IeMusical](http://iemusical.com.br)
 
 #### See more in [my GitHub](http://github.com/aleckyann)
 
+---
 ## Certificates | Certificados :file_folder:
 
 ### Data Science | Data Analysis | Artificial Inteligence | Machine Learning
@@ -107,7 +109,7 @@
 ### Ruby
 #### Ruby on Rails 4: do zero à web (de 25/08/2015 a 30/08/2015) 12 hrs 
 
-See the certificates in [Repository](https://github.com/aleckyann/Curriculum-certificates)
+See all certificates in [Repository](https://github.com/aleckyann/Curriculum-certificates)
 
 
 
