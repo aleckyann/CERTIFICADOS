@@ -2,7 +2,7 @@
 
 ## Personal Data | Dados Pessoais 
 
-### Name:
+### Full Name:
 Aleck Yann Marques de Matos Martins.
 
 ### Birth:
@@ -11,7 +11,7 @@ Aleck Yann Marques de Matos Martins.
 ### Age:
 23
 
-### Graduation:
+### My Graduation:
 Biomedical Engineering 8º period.
 
 ---
@@ -107,7 +107,7 @@ aleckyann@gmail.com
 ### Ruby
 * Ruby on Rails 4: do zero à web (de 25/08/2015 a 30/08/2015) 12 hrs 
 
-See all certificates in [Repository](https://github.com/aleckyann/Curriculum-certificates)
+See all certificates in [Repository](https://github.com/aleckyann/my-certificates)
 
 
 
