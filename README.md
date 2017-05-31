@@ -1,7 +1,6 @@
 # Now you know me! 
 
 ## Personal Data | Dados Pessoais 
-:bowtie:
 
 ### Name:
 Aleck Yann Marques de Matos Martins.
