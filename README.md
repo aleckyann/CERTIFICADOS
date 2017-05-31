@@ -1,5 +1,4 @@
 # Now you know me! 
-:grin:
 
 ## Personal Data | Dados Pessoais 
 :bowtie:
@@ -17,7 +16,7 @@ Aleck Yann Marques de Matos Martins.
 Biomedical Engineering 8º period.
 
 ---
-## Contact | Contato :mailbox:
+## Contact | Contato 
 
 ### Email:
 aleckyann@gmail.com
@@ -31,7 +30,6 @@ aleckyann@gmail.com
 
 ---
 ## Projects and Hobbies | Projetos e Hobbies 
-:school_satchel:
 
 #### [GetDoctors](http://getdoctors.com.br)
 #### [Gekee](http://geekee.com.br)
@@ -45,7 +43,7 @@ aleckyann@gmail.com
 #### See more in [my GitHub](http://github.com/aleckyann)
 
 ---
-## Certificates | Certificados :file_folder:
+## Certificates | Certificados 
 
 ### Data Science | Data Analysis | Artificial Inteligence | Machine Learning
 * Big Data Fundamentos (25/03/2017) 4 hrs
