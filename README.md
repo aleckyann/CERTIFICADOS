@@ -42,6 +42,13 @@ aleckyann@gmail.com
 #### See more in [my GitHub](http://github.com/aleckyann)
 
 ---
+## About me | Sobre mim
+
+####Always undecided between medicine and engineering, I decided to venture into biomedical engineering. I opened and closed several Startups in the last 2 years, however, I have had many valuable experiences! Today, still passionate about web development, I direct all my time from the study of Data Science in health. And it's certainly the area that I'll be having fun in the next few chapters of my life ...
+
+####Sempre indeciso entre medicina e engenharia, decidi me aventurar na engenharia biomédica. Abri e fechei várias Startups nos últimos 2 anos, no entanto, obtive muitas experiências valiosas! Hoje, ainda apaixonado por desenvolvimento web, direciono todo o meu tempo do estudo de Data Science em saúde. E com certeza é a área que estarei me divertindo nos próximos capítulos da minha vida...
+
+---
 ## Certificates | Certificados 
 
 ### Data Science | Data Analysis | Artificial Inteligence | Machine Learning
