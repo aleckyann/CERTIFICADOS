@@ -102,8 +102,9 @@ aleckyann@gmail.com
 * Django: programação web com Python e simplicidade (de 11/07/2015 a 16/08/2015) 16 hrs 
 
 ### Business
+* Desenvolvimento de Planos de negócio (10/10/2016) 20 hrs
 * Lean Startup: Primeiros passos da sua startup enxuta (de 29/08/2015 a 30/08/2015) 1 hrs
-* Lean Six-Sigma: White Belt (31/08/2016)
+* Lean Six-Sigma: White Belt (31/08/2016) 6 hrs
 
 ### Ruby
 * Ruby on Rails 4: do zero à web (de 25/08/2015 a 30/08/2015) 12 hrs 
