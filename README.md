@@ -44,10 +44,10 @@ aleckyann@gmail.com
 ---
 ## About me | Sobre mim
 
-#### Always undecided between medicine and engineering, I decided to venture into biomedical engineering. I opened and closed several Startups in the last 2 years, however, I have had many valuable experiences! Today, still passionate about web development, I direct all my time from the study of Data Science in health. And it's certainly the area that I'll be having fun in the next few chapters of my life ...
+#### Always undecided between medicine and engineering, i decided to venture into biomedical engineering. I had a wonderful and arduous experience of founding 3 startups: BuscarMedico, LeanClinic and Currently: GetDoctors. I had many valuable experiences and known very intelligent people on this walk! Today, still passionate about web development, I dedicate my entire study time in Data Science and the use of Machine Learning in health. And certainly an area that I'll be having fun in the next few chapters of my life ...
 
-#### Sempre indeciso entre medicina e engenharia, decidi me aventurar na engenharia biomédica. Abri e fechei várias Startups nos últimos 2 anos, no entanto, obtive muitas experiências valiosas! Hoje, ainda apaixonado por desenvolvimento web, direciono todo o meu tempo do estudo de Data Science em saúde. E com certeza é a área que estarei me divertindo nos próximos capítulos da minha vida...
-
+#### Sempre indeciso entre medicina e engenharia, decidi me aventurar na engenharia biomédica. Tive a maravilhosa e árdua experiência de fundar 3 startups: BuscarMedico, LeanClinic e atualmente: GetDoctors. Obtive muitas experiências valiosas e conheci pessoas muito inteligêntes nessa caminhada! Hoje, ainda apaixonado por desenvolvimento web, direciono todo o meu tempo de estudo em Data Science com foco na utilização de Machine Learning em saúde. E com certeza é a área que estarei me divertindo nos próximos capítulos da minha vida...
+    
 ---
 ## Certificates | Certificados 
 
@@ -57,7 +57,8 @@ aleckyann@gmail.com
 * Fundamentos de Data Science (25/04/2017) 4 hrs
 * Algoritmos I: Selection, Insertion e Introdução a Análise (de 06/07/2015 a 09/07/2015) 12 hrs 
 * Estatística I: Entenda seus dados com R (de 30/05/2017 a 31/05/2017) 8 hrs 
-* Estatíttica II: Aprofundando em Hipóteses e correlações com R (31/05/2017 a 01/06/2017.) 8 hrs
+* Estatíttica II: Aprofundando em Hipóteses e correlações com R (31/05/2017 a 01/06/2017) 8 hrs
+* Machine Learning: Classificações (01/06/2017 a 08/06/2017) 10hrs
 
 ### PHP
 * WordPress: Primeiros passos para não programadores (de 03/02/2016 a 11/02/2016) 8 hrs 
