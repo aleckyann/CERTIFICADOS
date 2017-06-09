@@ -89,7 +89,10 @@ aleckyann@gmail.com
 ### DBA
 * MySQL I: Iniciando suas consultas (de 04/07/2015 a 04/08/2015) 8 hrs 
 * MySQL II: Consultas poderosas (de 04/07/2015 a 04/11/2015) 16 hrs 
-* MongoDB: Uma alternativa aos bancos relacionais tradicionais (de 06/05/2016 a 07/05/2016) 6 hrs 
+* MongoDB: Uma alternativa aos bancos relacionais tradicionais (de 06/05/2016 a 07/05/2016) 6 hrs
+
+### VBA
+* Excel I: Edições, Funções e Gráficos (de 01/06/2017 a 09/06/2017) 8 hrs.
 
 ### Front-end & Design UX
 * HTML5 e CSS3 I: Suas primeiras páginas da Web (de 04/07/2015 a 16/07/2015) 32 hrs 
