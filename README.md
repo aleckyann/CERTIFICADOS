@@ -86,6 +86,7 @@ aleckyann@gmail.com
 * Linux I: Conhecendo e utilizando o terminal (27/07/2015 a 04/08/2015) 4 hrs 
 * Linux II: Programas, processos e pacotes (28/07/2015 a 04/08/2015) 8 hrs 
 * Git: Controle e compartilhe seu código (04/07/2015 a 14/05/2016) 16 hrs 
+* Redes I: Introdução, conceitos e pŕatica (12/06/2017) 10 hrs
 
 ### Python
 * Python 2: Programando com a linguagem (08/07/2015 a 11/08/2015) 16 hrs
