@@ -60,6 +60,7 @@ aleckyann@gmail.com
 * Estatíttica II: Aprofundando em Hipóteses e correlações com R (31/05/2017 a 01/06/2017) 8 hrs
 * Machine Learning: Classificações (01/06/2017 a 08/06/2017) 10hrs
 * Machine Learning: Classificações com Natural Language Toolkit (08/06/2017 a 10/06/2017) 4 hrs
+* Data Analysis: Trabalhando com dados e estatísticas (07/06/2017 a 13/06/2017.) 8 hrs
 
 ### PHP
 * WordPress: Primeiros passos para não programadores (03/02/2016 a 11/02/2016) 8 hrs 
