@@ -106,6 +106,7 @@ aleckyann@gmail.com
 
 ### VBA
 * Excel I: Edições, Funções e Gráficos (01/06/2017 a 09/06/2017) 8 hrs.
+* Excel II: Tabelas dinâmicas, validação de dados e funções (09/06/2017 a 20/06/2017) 8 hrs
 
 ### Front-end & Design UX
 * HTML5 e CSS3 I: Suas primeiras páginas da Web (04/07/2015 a 16/07/2015) 32 hrs 
