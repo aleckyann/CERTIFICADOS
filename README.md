@@ -99,6 +99,7 @@ aleckyann@gmail.com
 ### DBA
 * MySQL I: Iniciando suas consultas (04/07/2015 a 04/08/2015) 8 hrs 
 * MySQL II: Consultas poderosas (04/07/2015 a 04/11/2015) 16 hrs 
+* SQL: Modelagem de banco de dados: normalização (22/06/2017 a 22/06/2017) 5 hrs
 * MongoDB: Uma alternativa aos bancos relacionais tradicionais (06/05/2016 a 07/05/2016) 6 hrs
 
 ### Business
