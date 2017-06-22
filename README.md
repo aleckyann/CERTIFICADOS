@@ -32,12 +32,13 @@ aleckyann@gmail.com
 
 #### [GetDoctors](http://getdoctors.com.br)
 #### [Gekee](http://geekee.com.br)
-#### [MedicoOnline](http://medico.online)
 #### [BuscarMedico](http://buscarmedico.com.br)
-#### [MedicoCity](http://medico.city)
 #### [ClinicaOftalmológica](http://clinicaoftalmologicamoc.com.br)
 #### [DrLuciano](http://drlucianosolianasser.com.br)
 #### [IeMusical](http://iemusical.com.br)
+#### [Lean.clinic](http://lean.clinic) off
+#### [MedicoOnline](http://medico.online) off
+#### [MedicoCity](http://medico.city) off
 
 #### See more in [my GitHub](http://github.com/aleckyann)
 
@@ -122,6 +123,10 @@ aleckyann@gmail.com
 * Java III: Principais APIs e bibliotecas (03/07/2015 a 07/07/2015) 12 hrs 
 * Java e JDBC: Trabalhando com um banco de dados (03/07/2015 a 16/01/2016) 8 hrs 
 * Eclipse: Produtividade Extrema na IDE com Java (08/07/2015 a 10/07/2015) 12 hrs 
+
+### Academic
+* SIAP: Engenharia Biomédica (14/05/2015 a 16/05/2016) 20 hrs
+* JONAFES: Engenharia Biomédica (12/11/2014 a 14/11/2014) 25 hrs
 
 ### Ruby
 * Ruby on Rails 4: do zero à web (25/08/2015 a 30/08/2015) 12 hrs 
