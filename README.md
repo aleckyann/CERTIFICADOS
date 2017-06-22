@@ -92,6 +92,7 @@ aleckyann@gmail.com
 ### Python
 * Python 2: Programando com a linguagem (08/07/2015 a 11/08/2015) 16 hrs
 * Python 3: Introdução à nova versão (01/06/2017 a 10/06/2017) 12 hrs
+* Python 3: Avançando na linguagem (10/06/2017 a 22/06/2017) 12 hrs
 * Django: programação web com Python e simplicidade (11/07/2015 a 16/08/2015) 16 hrs 
 
 ### DBA
