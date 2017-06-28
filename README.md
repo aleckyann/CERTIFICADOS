@@ -129,6 +129,9 @@ aleckyann@gmail.com
 * SIAP: Engenharia Biomédica (14/05/2015 a 16/05/2016) 20 hrs
 * JONAFES: Engenharia Biomédica (12/11/2014 a 14/11/2014) 25 hrs
 
+### Métodos Ágeis
+* Métodos Ágeis: Introdução a Scrum, XP, Kanban e Agile (25/06/2017 a 28/06/2017) 12 hrs
+
 ### Ruby
 * Ruby on Rails 4: do zero à web (25/08/2015 a 30/08/2015) 12 hrs 
 
